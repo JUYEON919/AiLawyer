@@ -3,6 +3,16 @@
 
 > **AiLawyer**는 LLM 기반의 법률 상담 챗봇으로, 사용자가 법적 문제에 대한 질문을 하면 적절한 법률 조항과 판례를 바탕으로 답변을 제공하는 웹 애플리케이션입니다.  
 
+# ** UI 및 기능 업데이트 예정
+---
+# 주요기능화면 (V_01)
+  ![홈 화면](static/home_f.png)
+  ![로그인시채팅화면 화면](static/로그인후채팅.png)
+  ![회원가입 화면](static/회원가입.png)
+  
+
+
+
 ---
 
 ## 🛠 Development Environment  
@@ -60,7 +70,7 @@ uvicorn api.main:app --host 0.0.0.0 --port 8000
 
 #### **🔢 Streamlit 프론트엔드 실행**  
 ```bash
-streamlit run web/app.py
+npm start
 ```
 
 ---
