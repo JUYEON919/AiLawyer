@@ -3,6 +3,11 @@
 
 > **AiLawyer**는 LLM 기반의 법률 상담 챗봇으로, 사용자가 법적 문제에 대한 질문을 하면 적절한 법률 조항과 판례를 바탕으로 답변을 제공하는 웹 애플리케이션입니다.  
 
+# **시현영상**
+https://drive.google.com/file/d/17etBn3a9qLnQ5s8PLZ6d-zagn78EAKvd/view?usp=sharing
+
+
+
 # ** UI 및 기능 업데이트 예정
 ---
 # 주요기능화면 (V_01)
