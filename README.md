@@ -6,7 +6,7 @@
 본 저장소는 **LEXI_AI-main**(AI 모델)과 **Lawyer-ai**(웹 애플리케이션) 두 개의 주요 구성 요소로 이루어져 있습니다.  
 
 - **LEXI_AI-main**: 파이썬 기반의 법률 AI 모델을 개발 및 학습하는 프로젝트  
-- **Lawyer-ai**: 자바(Spring Boot) 기반의 백엔드와 React 프론트엔드로 구성된 웹 애플리케이션  
+- **Lawyer-ai**: 자바(Spring Boot) 기반의 백엔드와 React 프론트엔드로 구성된 웹 애플리케이션(https://github.com/JUYEON919/Lawyer_ai.git)
 - Lawyer-ai는 LEXI_AI-main의 AI 모델을 API를 통해 호출하여 법률 상담 기능을 제공합니다.  
 
 각 구성 요소는 별도의 환경에서 실행되지만, AI 모델과 웹 애플리케이션이 서로 연동됩니다.  
