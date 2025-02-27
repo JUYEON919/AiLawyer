@@ -3,7 +3,7 @@
 > **AiLawyer**는 LLM 기반의 법률 상담 챗봇으로, 사용자가 법적 문제에 대한 질문을 하면 적절한 법률 조항과 판례를 바탕으로 답변을 제공하는 웹 애플리케이션입니다.
 
 # 프로젝트 개요  
-본 저장소는 **LEXI_AI-main**(AI 모델)과 **Lawyer-ai**(웹 애플리케이션) 두 개의 주요 구성 요소로 이루어져 있습니다.  
+**LEXI_AI-main**(AI 모델)과 **Lawyer-ai**(웹 애플리케이션) 두 개의 주요 구성 요소로 이루어져 있습니다.  
 
 - **LEXI_AI-main**: 파이썬 기반의 법률 AI 모델을 개발 및 학습하는 프로젝트  
 - **Lawyer-ai**: 자바(Spring Boot) 기반의 백엔드와 React 프론트엔드로 구성된 웹 애플리케이션(https://github.com/JUYEON919/Lawyer_ai.git)
