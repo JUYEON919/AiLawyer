@@ -11,7 +11,7 @@ https://drive.google.com/file/d/17etBn3a9qLnQ5s8PLZ6d-zagn78EAKvd/view?usp=shari
 # ** UI 및 기능 업데이트 예정
 ---
 # 주요기능화면 (V_01)
-  ![홈 화면](static/home_f.png)
+  ![홈 화면](static/home.png)
   ![로그인시채팅화면 화면](static/로그인후채팅.png)
   ![회원가입 화면](static/회원가입.png)
   
